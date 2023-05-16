@@ -78,8 +78,7 @@ P.S. : Just because I used 'Concurrently' package and added some scripts, one ju
 ![Screenshot from 2023-04-28 01-24-47](https://user-images.githubusercontent.com/85434037/234980185-daba3cac-be32-4090-a21f-9f668f9ae74a.png)
 
 ## Admin Panel:
-
-
+![Screenshot from 2023-05-16 11-19-10](https://github.com/ayush-0110/backtask/assets/85434037/2bb37756-e169-4557-a694-95bc027d01f2)
 
 
 
