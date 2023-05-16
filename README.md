@@ -16,7 +16,7 @@ In this, various soft skills assessed are:
 
 ## Technical information:
 
-Frontend is based on ReactJs. Backend is in Nodejs. Database: Mysql. Have also used ExpressJs,concurrently,express-session etc.
+Frontend is based on ReactJs. Backend is in Nodejs. Database: Mysql. Have also used ExpressJs,concurrently,express-session etc. Deployed database on Amazon RDS
 
 ## Setting up:
 Clone the repo, run yarn install in the frontend i.e. treasure-app. Then, navigate to backend directory i.e. treasure-backend and run npm install. Ensure MongoDB is installed and running(Refer to mongodb guide for the OS of your system)
